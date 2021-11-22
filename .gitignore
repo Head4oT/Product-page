@@ -1,5 +1,6 @@
+/node_modules
 .DS_Store
-
+./idea
 # Images
 images/avatars/
 images/captchas/
